@@ -1,1 +1,3 @@
-# deploy-Tomcat
+# maven-project
+
+Simple Maven Project
